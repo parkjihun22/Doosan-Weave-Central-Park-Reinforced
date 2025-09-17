@@ -56,7 +56,7 @@ const ComplexGuide3 = () => {
           name="description"
           content="두산위브 센트럴파크 강화의 커뮤니티 시설을 소개합니다. 피트니스센터, 실내 골프연습장, 작은도서관(북카페), 주민 라운지 등 입주민의 생활 품격을 높이는 다양한 편의시설을 만나보세요."
         />
-        <link rel="canonical" href="https://sinbiapt.co.krComplexGuide/community" />
+        <link rel="canonical" href="https://sinbiapt.co.kr/ComplexGuide/community" />
         <meta name="robots" content="index,follow" />
 
         {/* Open Graph */}
@@ -67,8 +67,8 @@ const ComplexGuide3 = () => {
           property="og:description"
           content="피트니스·실내골프·작은도서관·라운지 등 다양한 커뮤니티로 일상의 가치를 높이는 두산위브 센트럴파크 강화."
         />
-        <meta property="og:url" content="https://sinbiapt.co.krComplexGuide/community" />
-        <meta property="og:image" content="https://sinbiapt.co.krimg/og/complex.jpg" />
+        <meta property="og:url" content="https://sinbiapt.co.kr/ComplexGuide/community" />
+        <meta property="og:image" content="https://sinbiapt.co.kr/img/og/complex.jpg" />
       </Helmet>
 
 

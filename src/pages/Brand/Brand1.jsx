@@ -53,7 +53,7 @@ const Brand1 = () => {
                 name="description"
                 content="두산건설 위브(WE’VE)의 브랜드 철학과 가치를 소개합니다. 품질 기준과 첨단 시공, 커뮤니티·서비스로 생활의 품격을 높이는 두산위브 센트럴파크 강화."
             />
-            <link rel="canonical" href="https://sinbiapt.co.krBrand/intro" />
+            <link rel="canonical" href="https://sinbiapt.co.kr/Brand/intro" />
             <meta name="robots" content="index,follow" />
 
             {/* Open Graph */}
@@ -64,8 +64,8 @@ const Brand1 = () => {
                 property="og:description"
                 content="두산건설 위브(WE’VE) 브랜드 소개: 고객 중심 설계와 신뢰의 품질, 프리미엄 주거문화를 제시하는 두산위브 센트럴파크 강화."
             />
-            <meta property="og:url" content="https://sinbiapt.co.krBrand/intro" />
-            <meta property="og:image" content="https://sinbiapt.co.krimages/og/main.jpg" />
+            <meta property="og:url" content="https://sinbiapt.co.kr/Brand/intro" />
+            <meta property="og:image" content="https://sinbiapt.co.kr/images/og/main.jpg" />
             </Helmet>
 
 
