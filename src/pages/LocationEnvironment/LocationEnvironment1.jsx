@@ -101,7 +101,7 @@ const LocationEnvironment1 = () => {
             content="강화읍 중심 입지, 두산위브 센트럴파크 강화의 입지환경을 확인하세요. 강화대교·초지대교, 계양–강화 고속도로(추진) 등 광역 교통망과 터미널·시장·하나로마트 등 생활 인프라, 고려산·석모도 등 자연환경까지."
           />
           <meta name="robots" content="index,follow" />
-          <link rel="canonical" href="https://www.apay.co.kr/LocationEnvironment/intro" />
+          <link rel="canonical" href="http://www.sinbiapt.co.kr/LocationEnvironment/intro" />
 
           {/* Open Graph */}
           <meta property="og:type" content="website" />
@@ -111,8 +111,8 @@ const LocationEnvironment1 = () => {
             property="og:description"
             content="강화 중심 입지: 강화대교·초지대교, 계양–강화 고속도로(추진) 등 교통망과 도심 생활 인프라, 고려산·석모도 자연환경을 누리는 두산위브 센트럴파크 강화."
           />
-          <meta property="og:url" content="https://www.apay.co.kr/LocationEnvironment/intro" />
-          <meta property="og:image" content="https://www.apay.co.kr/img/og/location.jpg" />
+          <meta property="og:url" content="http://www.sinbiapt.co.kr/LocationEnvironment/intro" />
+          <meta property="og:image" content="http://www.sinbiapt.co.kr/img/og/location.jpg" />
           <meta property="og:image:width" content="1200" />
           <meta property="og:image:height" content="630" />
 
@@ -123,8 +123,8 @@ const LocationEnvironment1 = () => {
             name="twitter:description"
             content="강화대교·초지대교, 계양–강화 고속도로(추진)로 확장되는 접근성, 터미널·시장·하나로마트 등 생활 인프라, 고려산·석모도 등 자연환경까지 갖춘 입지."
           />
-          <meta name="twitter:image" content="https://www.apay.co.kr/img/og/location.jpg" />
-          <meta name="twitter:url" content="https://www.apay.co.kr/LocationEnvironment/intro" />
+          <meta name="twitter:image" content="http://www.sinbiapt.co.kr/img/og/location.jpg" />
+          <meta name="twitter:url" content="http://www.sinbiapt.co.kr/LocationEnvironment/intro" />
 
           {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
           <script type="application/ld+json">
@@ -132,20 +132,20 @@ const LocationEnvironment1 = () => {
               "@context": "https://schema.org",
               "@type": "WebPage",
               "name": "두산위브 센트럴파크 강화 - 입지환경",
-              "url": "https://www.apay.co.kr/LocationEnvironment/intro",
+              "url": "http://www.sinbiapt.co.kr/LocationEnvironment/intro",
               "description":
                 "강화읍 중심 입지, 강화대교·초지대교 및 계양–강화 고속도로(추진) 교통망, 도심 생활 인프라와 고려산·석모도 등 자연환경을 갖춘 두산위브 센트럴파크 강화의 입지환경.",
               "primaryImageOfPage": {
                 "@type": "ImageObject",
-                "contentUrl": "https://www.apay.co.kr/img/og/location.jpg",
+                "contentUrl": "http://www.sinbiapt.co.kr/img/og/location.jpg",
                 "width": 1200,
                 "height": 630
               },
               "breadcrumb": {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                  { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.apay.co.kr/" },
-                  { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.apay.co.kr/LocationEnvironment/intro" }
+                  { "@type": "ListItem", "position": 1, "name": "홈", "item": "http://www.sinbiapt.co.kr/" },
+                  { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "http://www.sinbiapt.co.kr/LocationEnvironment/intro" }
                 ]
               }
             })}

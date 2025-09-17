@@ -72,7 +72,7 @@ const BusinessGuide2 = () => {
 				<meta name="robots" content="index,follow" />
 				<link
 					rel="canonical"
-					href="https://www.apay.co.kr/BusinessGuide/documents"
+					href="http://www.sinbiapt.co.kr/BusinessGuide/documents"
 				/>
 
 				{/* Open Graph */}
@@ -83,8 +83,8 @@ const BusinessGuide2 = () => {
 					property="og:description"
 					content="두산위브 센트럴파크 강화 계약서류 안내: 신분증·주민등록등본·인감증명서 등 필수 서류와 준비 절차, 유의사항을 확인하세요."
 				/>
-				<meta property="og:url" content="https://www.apay.co.kr/BusinessGuide/documents" />
-				<meta property="og:image" content="https://www.apay.co.kr/Main1.png" />
+				<meta property="og:url" content="http://www.sinbiapt.co.kr/BusinessGuide/documents" />
+				<meta property="og:image" content="http://www.sinbiapt.co.kr/Main1.png" />
 				</Helmet>
 
 
