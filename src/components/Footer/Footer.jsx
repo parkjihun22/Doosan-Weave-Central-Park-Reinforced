@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "두산위브센트럴파크강화", url: "http://www.sinbiapt.co.kr/" },
+  { name: "두산위브센트럴파크강화", url: "https://sinbiapt.co.kr" },
 ];
 
 const Footer = () => {

@@ -58,7 +58,7 @@ const ComplexGuide1 = () => {
 				content="두산위브 센트럴파크 강화 단지배치도를 통해 동별 위치, 조경, 커뮤니티, 주차·보행 동선 설계를 확인하세요. 지상 차 없는 공원형(전면 지하주차)과 생활 편의를 고려한 최적 배치를 안내합니다."
 			/>
 			<meta name="robots" content="index,follow" />
-			<link rel="canonical" href="http://www.sinbiapt.co.kr/ComplexGuide/intro" />
+			<link rel="canonical" href="https://sinbiapt.co.krComplexGuide/intro" />
 
 			{/* Open Graph */}
 			<meta property="og:type" content="website" />
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
 				property="og:description"
 				content="동·호 배치, 조경·커뮤니티, 주차·보행 동선까지 생활 편의를 극대화한 공원형 단지 배치를 확인하세요."
 			/>
-			<meta property="og:url" content="http://www.sinbiapt.co.kr/ComplexGuide/intro" />
-			<meta property="og:image" content="http://www.sinbiapt.co.kr/img/og/complex.jpg" />
+			<meta property="og:url" content="https://sinbiapt.co.krComplexGuide/intro" />
+			<meta property="og:image" content="https://sinbiapt.co.krimg/og/complex.jpg" />
 			<meta property="og:image:width" content="1200" />
 			<meta property="og:image:height" content="630" />
 
@@ -80,8 +80,8 @@ const ComplexGuide1 = () => {
 				name="twitter:description"
 				content="지상 차 없는 공원형 단지 설계와 조경·커뮤니티·주차·동선 계획을 한눈에."
 			/>
-			<meta name="twitter:image" content="http://www.sinbiapt.co.kr/img/og/complex.jpg" />
-			<meta name="twitter:url" content="http://www.sinbiapt.co.kr/ComplexGuide/intro" />
+			<meta name="twitter:image" content="https://sinbiapt.co.krimg/og/complex.jpg" />
+			<meta name="twitter:url" content="https://sinbiapt.co.krComplexGuide/intro" />
 
 			{/* JSON-LD */}
 			<script type="application/ld+json">
@@ -89,20 +89,20 @@ const ComplexGuide1 = () => {
 				"@context": "https://schema.org",
 				"@type": "WebPage",
 				"name": "두산위브 센트럴파크 강화 - 단지배치도",
-				"url": "http://www.sinbiapt.co.kr/ComplexGuide/intro",
+				"url": "https://sinbiapt.co.krComplexGuide/intro",
 				"description":
 					"두산위브 센트럴파크 강화 단지배치도: 동별 위치, 조경, 커뮤니티 시설, 주차·보행 동선 설계를 확인하세요.",
 				"primaryImageOfPage": {
 					"@type": "ImageObject",
-					"contentUrl": "http://www.sinbiapt.co.kr/img/og/complex.jpg",
+					"contentUrl": "https://sinbiapt.co.krimg/og/complex.jpg",
 					"width": 1200,
 					"height": 630
 				},
 				"breadcrumb": {
 					"@type": "BreadcrumbList",
 					"itemListElement": [
-					{ "@type": "ListItem", "position": 1, "name": "홈", "item": "http://www.sinbiapt.co.kr/" },
-					{ "@type": "ListItem", "position": 2, "name": "단지배치도", "item": "http://www.sinbiapt.co.kr/ComplexGuide/intro" }
+					{ "@type": "ListItem", "position": 1, "name": "홈", "item": "https://sinbiapt.co.kr" },
+					{ "@type": "ListItem", "position": 2, "name": "단지배치도", "item": "https://sinbiapt.co.krComplexGuide/intro" }
 					]
 				}
 				})}
