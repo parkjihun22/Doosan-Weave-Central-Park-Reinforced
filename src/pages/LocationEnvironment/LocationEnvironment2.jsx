@@ -10,7 +10,7 @@ import FixIcon from "../../components/FixIcon/FixIcon";
 import Ready from "../../components/Ready/Ready";
 import HelmetCOM from "../../components/HelmetCOM/HelmetCOM";
 import { Helmet } from "react-helmet-async";
-// import page1 from "../../assets/LocationEnvironment/LocationEnvironment2/page1.jpg";
+import page1 from "../../assets/LocationEnvironment/LocationEnvironment2/page1.jpg";
 
 
 const LocationEnvironment1 = () => {
@@ -77,12 +77,12 @@ const LocationEnvironment1 = () => {
       </div>
 
 
-      {/* <img
+      <img
         src={page1}
         className={styles.image3}
         alt="두산위브센트럴파크강화-image1"
-      /> */}
-      <Ready/>
+      />
+
       <Footer />
     </div>
   );

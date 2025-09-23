@@ -10,7 +10,7 @@ import FixIcon from "../../components/FixIcon/FixIcon";
 import HelmetCOM from "../../components/HelmetCOM/HelmetCOM";
 import { Helmet } from "react-helmet-async";
 
-import page1 from "../../assets/FloorPlan/FloorPlan3/unit_84a.jpg"
+import page1 from "../../assets/FloorPlan/FloorPlan3/unit_72a.jpg"
 
 
 
@@ -18,12 +18,12 @@ const FloorPlan3 = () => {
 	const menuContents = [
 		{ title: "59A", url: "/FloorPlan/59A" },
 		{ title: "59B", url: "/FloorPlan/59B" },
-		{ title: "84A", url: "/FloorPlan/84A" },
-		{ title: "84B", url: "/FloorPlan/84B" },
-		{ title: "84C", url: "/FloorPlan/114A" },
-    	{ title: "84D", url: "/FloorPlan/114B" },
+		{ title: "72A", url: "/FloorPlan/84A" },
+		{ title: "72B", url: "/FloorPlan/84B" },
+		{ title: "84A", url: "/FloorPlan/114A" },
+    // { title: "84D", url: "/FloorPlan/114B" },
 		// { title: "세대안내영상", url: "/FloorPlan/videos" }, // 세대안내영상 링크
-		{ title: "E-모델하우스", url: "/FloorPlan/Emodel" },
+		// { title: "E-모델하우스", url: "/FloorPlan/Emodel" },
 	
 	];
 

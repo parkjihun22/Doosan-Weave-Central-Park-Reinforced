@@ -102,7 +102,14 @@ const ComplexGuide3 = () => {
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 
-
+      <div className={styles.commonBox}>
+              <div className={styles.notice}>
+                ※ 커뮤니티 이미지는 소비자의 이해를 돕기 위한 것으로 실제와 차이가 날 수 있습니다
+              </div>
+              <div className={styles.notice}>
+                ※ 커뮤니티내 조경 및 세부계획, 시설물의 위치는 실제 시공시 현장 상황에 따라 변경될 수 있습니다
+              </div>
+            </div>
 
       <Footer />
     </div>

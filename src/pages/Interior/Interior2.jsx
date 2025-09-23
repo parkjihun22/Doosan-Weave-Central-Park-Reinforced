@@ -11,15 +11,15 @@ import HelmetCOM from "../../components/HelmetCOM/HelmetCOM";
 import { Helmet } from "react-helmet-async";
 
 
-// import page1 from "../../assets/Interior/Interior2/page1.jpg";
+import page1 from "../../assets/Interior/Interior2/page1.jpg";
 import Ready from "../../components/Ready/Ready";
 
 
 
 const Interior2 = () => {
   const menuContents = [
-    { title: "59㎡", url: "/Interior/59A" },
-    { title: "84㎡", url: "/Interior/84A" },
+    { title: "59A", url: "/Interior/59A" },
+    { title: "72B", url: "/Interior/84A" },
   ];
 
   const [isScroll, setIsScroll] = useState(false);
@@ -63,7 +63,7 @@ const Interior2 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        두산위브 센트럴파크 강화 - 84A 인테리어
+        두산위브 센트럴파크 강화 - 인테리어
       </h1>
       <p className={styles.screenReaderOnly}>
         본 페이지에서는 두산위브 센트럴파크 강화 84A 타입의 인테리어를 소개합니다.
@@ -73,18 +73,18 @@ const Interior2 = () => {
 
       <div className={styles.textBox}>
         <div>강화의 새로운 기준 위에</div>
-        <div>두산위브 센트럴파크 강화 84A 인테리어를 만나보세요.</div>
+        <div>두산위브 센트럴파크 강화 인테리어를 만나보세요.</div>
       </div>
 
 
       {/* 이미지에 애니메이션 효과 추가 */}
-      {/* <img
+      <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
 				alt="두산위브센트럴파크강화84A 인테리어 안내 이미지"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
-			/> */}
-      <Ready/>
+			/>
+
 
       <div className={styles.commonBox2}>
         <div className={styles.notice}>
